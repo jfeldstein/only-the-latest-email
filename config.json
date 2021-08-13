@@ -1,0 +1,5 @@
+{
+  "GCF_REGION": "us-central1",
+  "GCLOUD_PROJECT": "only-the-latest-email",
+  "TOPIC_ID": "onlythelatest-topic"
+}
